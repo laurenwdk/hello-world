@@ -9,7 +9,7 @@
 3. French 
 4. Intro to Computer Science 
 
-## Some Facts About Me  
+## Some Facts About Me
 - I have a dog named Zoey
 - She is a chocolate labrador
 - She is around 8 years old
