@@ -9,4 +9,10 @@
 3. French 
 4. Intro to Computer Science 
 
+## Some Facts About Me  
+I have a dog named Zoey
+---
+My favourite food is strawberries 
+
+
 
