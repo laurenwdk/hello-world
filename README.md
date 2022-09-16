@@ -4,7 +4,9 @@
 # About Me 
 
 ## Courses this Semester 
-    1. English 
-    2. Math
-    3. French 
-    4. Intro to Computer Science 
+1. English 
+2. Math
+3. French 
+4. Intro to Computer Science 
+
+
