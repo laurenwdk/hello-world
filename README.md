@@ -11,8 +11,12 @@
 
 ## Some Facts About Me  
 - I have a dog named Zoey
+- She is a chocolate labrador
+- She is around 8 years old
 --- 
-- My favourite food is strawberries 
+- My favourite foods include: 
+- Strawberries 
+- Salmon sashimi 
 
 
 
